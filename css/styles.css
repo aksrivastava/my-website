@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+    background-color:#2A1E36;
+}
+
+.brando {
+  color: #A66CFF;
+}
+.navbar {background-color: #2A1E36;
+  width: 100%;
+ }
+
+.margin {
+  background-color: black;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.btn {
+  margin-top: 10%;
+  margin-right: 2%;
+  margin-bottom: 3%;
+}
+
+.meet {
+  font-size: 400%;
+  color: #A66CFF;
+}
+
+.dog {
+  max-width: 50%;
+  transform: rotate(25deg);
+  margin-left: 20%;
+  margin-top: 3%;
+}
+
+.container-fluid {
+  color: #A66CFF;
+}
+
+#features {
+  background-color: #A66CFF;
+}
+
+.second {
+  padding: 10%;
+}
+p {
+
+  text-align: center;
+
+}
+h3 {text-align: center;}
+.secondtext{
+text-align: center;
+}
+h2 {
+
+  color: #A66CFF;
+
+}
+#testimonials {
+
+  text-align: center;
+  background-color: black;
+
+}
+.carousel-item {
+padding: 7% 15%;
+
+}
+
+.image-testimonials {
+border-radius: 100%;
+width: 20%;
+margin-top: 4%;
+}
+#press {
+  background-color: black;
+  text-align: center;
+}
+.testimonials-imagess {
+
+  width: 15%;
+  margin: 2%;
+}
+#pricing {
+
+  background-color: #4158D0;
+background-image: linear-gradient(180deg, #ff9933 0%, #ffffff 59%, #50c878 100%);
+
+}
+.em{
+
+  color: #A66CFF;
+  margin-left: 2%;
+}
