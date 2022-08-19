@@ -1,14 +1,17 @@
 body {
   margin: 0;
-    background-color:#2A1E36;
+  background-color: #2A1E36;
+
 }
 
 .brando {
   color: #A66CFF;
 }
-.navbar {background-color: #2A1E36;
+
+.navbar {
+  background-color: #2A1E36;
   width: 100%;
- }
+}
 
 .margin {
   background-color: black;
@@ -18,7 +21,7 @@ body {
   padding-right: 15%;
 }
 
-.btn {
+.bebo {
   margin-top: 10%;
   margin-right: 2%;
   margin-bottom: 3%;
@@ -47,53 +50,110 @@ body {
 .second {
   padding: 10%;
 }
+
 p {
-
   text-align: center;
+}
 
+h3 {
+  text-align: center;
 }
-h3 {text-align: center;}
-.secondtext{
-text-align: center;
+
+.secondtext {
+  text-align: center;
 }
+
 h2 {
-
   color: #A66CFF;
-
 }
-#testimonials {
 
+#testimonials {
   text-align: center;
   background-color: black;
-
 }
-.carousel-item {
-padding: 7% 15%;
 
+.carousel-item {
+  padding: 7% 15%;
 }
 
 .image-testimonials {
-border-radius: 100%;
-width: 20%;
-margin-top: 4%;
+  border-radius: 100%;
+  width: 20%;
+  margin-top: 4%;
 }
+
 #press {
   background-color: black;
   text-align: center;
 }
-.testimonials-imagess {
 
+.testimonials-imagess {
   width: 15%;
   margin: 2%;
 }
-#pricing {
 
-  background-color: #4158D0;
-background-image: linear-gradient(180deg, #ff9933 0%, #ffffff 59%, #50c878 100%);
+#pricing {
+  background-color: #A66CFF;
+  color: black;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
 
 }
-.em{
 
+.em {
   color: #A66CFF;
   margin-left: 2%;
 }
+
+.secondtext1 {
+  text-align: center;
+  color: #A66CFF;
+}
+
+.card {
+  background-color: black;
+  margin: 5%;
+}
+
+#cta {
+  background-color: black;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 5%;
+
+
+
+}
+
+
+
+.life {
+  color: #A66CFF;
+}
+.footer {
+
+  background-color: #A66CFF;
+    color: black;
+    padding: 1%;
+    padding-top: 2%;
+    text-align: center;
+
+}
+.rrr {
+
+  padding: 2%;
+}
+.harshit {
+  padding-top: 2%;
+}
+
+.son {
+margin: 1%;
+}
+.lolo
+ {
+
+   margin: 0 1% 1% 1%;
+ }
+
